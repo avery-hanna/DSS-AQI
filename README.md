@@ -1,6 +1,9 @@
 # DSS-AQI
 Predict air quality index during wildfire season in California
 
+Data sources:
+Air quality data from https://www.epa.gov/outdoor-air-quality-data/download-daily-data 
+
 Using Git:
 
 set up:
