@@ -1,5 +1,5 @@
 # DSS-AQI
-Predict air quality index during wildfire season in California
+Predict asthma-related hospital visits by AQI in California
 
 Data sources:
 Air quality data from https://www.epa.gov/outdoor-air-quality-data/download-daily-data 
