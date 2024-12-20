@@ -1,8 +1,18 @@
-# DSS-AQI
+# DSS-Asthma
 Predict asthma-related hospital visits by AQI in California
 
+Code: 
+All code is done in the aqi_prediction.ipynb file
+
 Data sources:
-Air quality data from https://www.epa.gov/outdoor-air-quality-data/download-daily-data 
+- Air quality data from https://www.epa.gov/outdoor-air-quality-data/download-daily-data 
+- Asthma ED visit data from https://data.ca.gov/dataset/asthma-emergency-department-visit-rates/resource/ebc3ac2f-5b39-4db3-90aa-55e69612d78c 
+- Meteorology data from http://www.cimis.water.ca.gov/ 
+- Poverty data from https://hdpulse.nimhd.nih.gov/data-portal/social/table?age=001&age_options=ageall_1&demo=00007&demo_options=poverty_3&race=00&race_options=race_7&sex=0&sex_options=sexboth_1&socialtopic=080&socialtopic_options=social_6&statefips=06&statefips_options=area_states 
+- Health insurance data from https://hdpulse.nimhd.nih.gov/data-portal/social/table?age=001&age_options=ageall_1&demo=00007&demo_options=poverty_3&race=00&race_options=race_7&sex=0&sex_options=sexboth_1&socialtopic=080&socialtopic_options=social_6&statefips=06&statefips_options=area_states
+- Census (ethnicity) data from https://dof.ca.gov/reports/demographic-reports/american-community-survey/#ACS2017x5 
+
+
 
 Using Git:
 
