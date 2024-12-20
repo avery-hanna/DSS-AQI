@@ -1,5 +1,4 @@
 # DSS-Asthma
-Predict asthma-related hospital visits by AQI in California
 
 Code: 
 All code is done in the aqi_prediction.ipynb file
